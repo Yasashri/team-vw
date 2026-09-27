@@ -1,0 +1,1931 @@
+{
+  "copy": {
+    "Alumni.001": {
+      "group": "Alumni",
+      "label": "label: All",
+      "kind": "text",
+      "value": "All"
+    },
+    "Alumni.002": {
+      "group": "Alumni",
+      "label": "label: PhD",
+      "kind": "text",
+      "value": "PhD"
+    },
+    "Alumni.003": {
+      "group": "Alumni",
+      "label": "label: MS",
+      "kind": "text",
+      "value": "MS"
+    },
+    "Alumni.004": {
+      "group": "Alumni",
+      "label": "label: Undergraduate",
+      "kind": "text",
+      "value": "Undergraduate"
+    },
+    "Alumni.005": {
+      "group": "Alumni",
+      "label": "title: Alumni | Team VW",
+      "kind": "text",
+      "value": "Alumni | Team VW"
+    },
+    "Alumni.006": {
+      "group": "Alumni",
+      "label": "description: Former graduate and undergraduate researchers from Team VW at National",
+      "kind": "text",
+      "value": "Former graduate and undergraduate researchers from Team VW at National Sun Yat-sen University."
+    },
+    "Alumni.007": {
+      "group": "Alumni",
+      "label": "eyebrow: People · Alumni",
+      "kind": "text",
+      "value": "People · Alumni"
+    },
+    "Alumni.008": {
+      "group": "Alumni",
+      "label": "title: Research journeys that began with Team VW.",
+      "kind": "text",
+      "value": "Research journeys that began with Team VW."
+    },
+    "Alumni.009": {
+      "group": "Alumni",
+      "label": "intro: Former students and researchers, their thesis topics and the scientifi",
+      "kind": "text",
+      "value": "Former students and researchers, their thesis topics and the scientific questions they explored in the group."
+    },
+    "Alumni.010": {
+      "group": "Alumni",
+      "label": "aria-label: Filter alumni",
+      "kind": "text",
+      "value": "Filter alumni"
+    },
+    "Alumni.011": {
+      "group": "Alumni",
+      "label": "Text: a.k.a.",
+      "kind": "text",
+      "value": "a.k.a. "
+    },
+    "Alumni.012": {
+      "group": "Alumni",
+      "label": "Text: Thesis title",
+      "kind": "text",
+      "value": "Thesis title"
+    },
+    "Alumni.013": {
+      "group": "Alumni",
+      "label": "Text: Current position",
+      "kind": "text",
+      "value": "Current position"
+    },
+    "Contact.001": {
+      "group": "Contact",
+      "label": "title: Contact | Team VW",
+      "kind": "text",
+      "value": "Contact | Team VW"
+    },
+    "Contact.002": {
+      "group": "Contact",
+      "label": "description: Contact Team VW at the Department of Chemistry, National Sun Yat-sen U",
+      "kind": "text",
+      "value": "Contact Team VW at the Department of Chemistry, National Sun Yat-sen University in Kaohsiung, Taiwan."
+    },
+    "Contact.003": {
+      "group": "Contact",
+      "label": "eyebrow: Contact",
+      "kind": "text",
+      "value": "Contact"
+    },
+    "Contact.004": {
+      "group": "Contact",
+      "label": "title: Find Team VW at NSYSU.",
+      "kind": "text",
+      "value": "Find Team VW at NSYSU."
+    },
+    "Contact.005": {
+      "group": "Contact",
+      "label": "intro: Department of Chemistry, National Sun Yat-sen University · Kaohsiung, ",
+      "kind": "text",
+      "value": "Department of Chemistry, National Sun Yat-sen University · Kaohsiung, Taiwan."
+    },
+    "Contact.006": {
+      "group": "Contact",
+      "label": "Text: Email",
+      "kind": "text",
+      "value": "Email"
+    },
+    "Contact.007": {
+      "group": "Contact",
+      "label": "Text: Phone",
+      "kind": "text",
+      "value": "Phone"
+    },
+    "Contact.008": {
+      "group": "Contact",
+      "label": "Text: Address",
+      "kind": "text",
+      "value": "Address"
+    },
+    "Contact.009": {
+      "group": "Contact",
+      "label": "Text: Physical location",
+      "kind": "text",
+      "value": "Physical location"
+    },
+    "Contact.010": {
+      "group": "Contact",
+      "label": "Text: Laboratory:",
+      "kind": "text",
+      "value": "Laboratory: "
+    },
+    "Contact.011": {
+      "group": "Contact",
+      "label": "Text: Office:",
+      "kind": "text",
+      "value": "Office: "
+    },
+    "Contact.012": {
+      "group": "Contact",
+      "label": "Text: Open directions",
+      "kind": "text",
+      "value": "Open directions "
+    },
+    "Contact.013": {
+      "group": "Contact",
+      "label": "title: Map showing National Sun Yat-sen University Chemistry Building",
+      "kind": "text",
+      "value": "Map showing National Sun Yat-sen University Chemistry Building"
+    },
+    "Contact.014": {
+      "group": "Contact",
+      "label": "src: https://www.google.com/maps?q=National+Sun+Yat-sen+University+Chemistr",
+      "kind": "link",
+      "value": "https://www.google.com/maps?q=National+Sun+Yat-sen+University+Chemistry+Building&output=embed"
+    },
+    "Contact.015": {
+      "group": "Contact",
+      "label": "Text: National Sun Yat-sen University",
+      "kind": "text",
+      "value": "National Sun Yat-sen University"
+    },
+    "Contact.016": {
+      "group": "Contact",
+      "label": "Text: Chemistry Building · Kaohsiung 80424",
+      "kind": "text",
+      "value": "Chemistry Building · Kaohsiung 80424"
+    },
+    "Contact.017": {
+      "group": "Contact",
+      "label": "Text: Getting here",
+      "kind": "text",
+      "value": "Getting here"
+    },
+    "Contact.018": {
+      "group": "Contact",
+      "label": "Text: Department of Chemistry",
+      "kind": "text",
+      "value": "Department of Chemistry"
+    },
+    "Contact.019": {
+      "group": "Contact",
+      "label": "Text: Team VW’s laboratory and office are located in the Chemistry Building ",
+      "kind": "text",
+      "value": "Team VW’s laboratory and office are located in the Chemistry Building at NSYSU. The lab is CH5013 and the office is CH5014."
+    },
+    "Contact.020": {
+      "group": "Contact",
+      "label": "Text: NSYSU Department of Chemistry",
+      "kind": "text",
+      "value": "NSYSU Department of Chemistry "
+    },
+    "Contact.021": {
+      "group": "Contact",
+      "label": "Text: National Sun Yat-sen University",
+      "kind": "text",
+      "value": "National Sun Yat-sen University "
+    },
+    "Home.001": {
+      "group": "Home",
+      "label": "title: Team VW | Sustainable Catalysis Research at NSYSU",
+      "kind": "text",
+      "value": "Team VW | Sustainable Catalysis Research at NSYSU"
+    },
+    "Home.002": {
+      "group": "Home",
+      "label": "description: Team VW studies sustainable catalysis, electrocatalysis, photoelectroc",
+      "kind": "text",
+      "value": "Team VW studies sustainable catalysis, electrocatalysis, photoelectrocatalysis and photoredox chemistry at National Sun Yat-sen University."
+    },
+    "Home.003": {
+      "group": "Home",
+      "label": "src: /images/hero-team-cover.png",
+      "kind": "image",
+      "value": "/images/hero-team-cover.png"
+    },
+    "Home.004": {
+      "group": "Home",
+      "label": "Text: Sustainable catalysis · NSYSU",
+      "kind": "text",
+      "value": "Sustainable catalysis · NSYSU"
+    },
+    "Home.005": {
+      "group": "Home",
+      "label": "Text: Catalysis for a",
+      "kind": "text",
+      "value": "Catalysis for a"
+    },
+    "Home.006": {
+      "group": "Home",
+      "label": "Text: sustainable",
+      "kind": "text",
+      "value": "sustainable"
+    },
+    "Home.007": {
+      "group": "Home",
+      "label": "Text: future.",
+      "kind": "text",
+      "value": "future."
+    },
+    "Home.008": {
+      "group": "Home",
+      "label": "Text: Team VW investigates how light, electricity and molecular design can b",
+      "kind": "text",
+      "value": "Team VW investigates how light, electricity and molecular design can be used to understand and reinvent catalytic reactions for sustainable chemical and energy conversion."
+    },
+    "Home.009": {
+      "group": "Home",
+      "label": "Text: Explore our research",
+      "kind": "text",
+      "value": "Explore our research "
+    },
+    "Home.010": {
+      "group": "Home",
+      "label": "Text: Meet the team",
+      "kind": "text",
+      "value": "Meet the team"
+    },
+    "Home.011": {
+      "group": "Home",
+      "label": "Text: Publications",
+      "kind": "text",
+      "value": "Publications "
+    },
+    "Home.012": {
+      "group": "Home",
+      "label": "Text: Researchers & interns",
+      "kind": "text",
+      "value": "Researchers & interns"
+    },
+    "Home.013": {
+      "group": "Home",
+      "label": "Text: 3",
+      "kind": "text",
+      "value": "3"
+    },
+    "Home.014": {
+      "group": "Home",
+      "label": "Text: Core research directions",
+      "kind": "text",
+      "value": "Core research directions"
+    },
+    "Home.015": {
+      "group": "Home",
+      "label": "Text: Publications listed",
+      "kind": "text",
+      "value": "Publications listed"
+    },
+    "Home.016": {
+      "group": "Home",
+      "label": "Text: 01",
+      "kind": "text",
+      "value": "01"
+    },
+    "Home.017": {
+      "group": "Home",
+      "label": "Text: MECHANISTIC CHEMISTRY FOR ENERGY CONVERSION",
+      "kind": "text",
+      "value": "MECHANISTIC CHEMISTRY FOR ENERGY CONVERSION"
+    },
+    "Home.018": {
+      "group": "Home",
+      "label": "eyebrow: How we work",
+      "kind": "text",
+      "value": "How we work"
+    },
+    "Home.019": {
+      "group": "Home",
+      "label": "title: Mechanism first.",
+      "kind": "text",
+      "value": "Mechanism first."
+    },
+    "Home.020": {
+      "group": "Home",
+      "label": "intro: Catalyst development is most useful when experiments can explain why a",
+      "kind": "text",
+      "value": "Catalyst development is most useful when experiments can explain why a system behaves the way it does."
+    },
+    "Home.021": {
+      "group": "Home",
+      "label": "title: Molecular design",
+      "kind": "text",
+      "value": "Molecular design"
+    },
+    "Home.022": {
+      "group": "Home",
+      "label": "text: Tune primary and secondary coordination environments to control substr",
+      "kind": "text",
+      "value": "Tune primary and secondary coordination environments to control substrate activation, proton transfer and selectivity."
+    },
+    "Home.023": {
+      "group": "Home",
+      "label": "title: Mechanistic electrochemistry",
+      "kind": "text",
+      "value": "Mechanistic electrochemistry"
+    },
+    "Home.024": {
+      "group": "Home",
+      "label": "text: Use voltammetry, kinetic analysis and operando approaches to resolve m",
+      "kind": "text",
+      "value": "Use voltammetry, kinetic analysis and operando approaches to resolve multi-step catalytic cycles."
+    },
+    "Home.025": {
+      "group": "Home",
+      "label": "title: Light-driven chemistry",
+      "kind": "text",
+      "value": "Light-driven chemistry"
+    },
+    "Home.026": {
+      "group": "Home",
+      "label": "text: Study excited-state reactivity, photoredox catalysis and coupled photo",
+      "kind": "text",
+      "value": "Study excited-state reactivity, photoredox catalysis and coupled photoelectrochemical systems."
+    },
+    "Home.027": {
+      "group": "Home",
+      "label": "Text: 0",
+      "kind": "text",
+      "value": "0"
+    },
+    "Home.028": {
+      "group": "Home",
+      "label": "eyebrow: Research highlights",
+      "kind": "text",
+      "value": "Research highlights"
+    },
+    "Home.029": {
+      "group": "Home",
+      "label": "title: Current questions, recent outputs.",
+      "kind": "text",
+      "value": "Current questions, recent outputs."
+    },
+    "Home.030": {
+      "group": "Home",
+      "label": "intro: A focused view of the work currently shaping Team VW’s research story.",
+      "kind": "text",
+      "value": "A focused view of the work currently shaping Team VW’s research story."
+    },
+    "Home.031": {
+      "group": "Home",
+      "label": "Text: Explore all research",
+      "kind": "text",
+      "value": "Explore all research "
+    },
+    "Home.032": {
+      "group": "Home",
+      "label": "Text: CO₂",
+      "kind": "text",
+      "value": "CO₂"
+    },
+    "Home.033": {
+      "group": "Home",
+      "label": "Text: e⁻",
+      "kind": "text",
+      "value": "e⁻"
+    },
+    "Home.034": {
+      "group": "Home",
+      "label": "Text: Molecular CO₂ chemistry",
+      "kind": "text",
+      "value": "Molecular CO₂ chemistry"
+    },
+    "Home.035": {
+      "group": "Home",
+      "label": "Text: Ligand structure, stability and reactivity",
+      "kind": "text",
+      "value": "Ligand structure, stability and reactivity"
+    },
+    "Home.036": {
+      "group": "Home",
+      "label": "Text: Recent Team VW work examines how systematic ligand modification change",
+      "kind": "text",
+      "value": "Recent Team VW work examines how systematic ligand modification changes copper-complex behavior in electrocatalytic CO₂ reduction."
+    },
+    "Home.037": {
+      "group": "Home",
+      "label": "Text: See 2026 publications",
+      "kind": "text",
+      "value": "See 2026 publications "
+    },
+    "Home.038": {
+      "group": "Home",
+      "label": "Text: Electrokinetics",
+      "kind": "text",
+      "value": "Electrokinetics"
+    },
+    "Home.039": {
+      "group": "Home",
+      "label": "Text: Reading complex catalytic voltammograms",
+      "kind": "text",
+      "value": "Reading complex catalytic voltammograms"
+    },
+    "Home.040": {
+      "group": "Home",
+      "label": "Text: Multi-electron kinetic models help connect observed current–potential ",
+      "kind": "text",
+      "value": "Multi-electron kinetic models help connect observed current–potential behavior to charge transport, diffusion and chemical steps."
+    },
+    "Home.041": {
+      "group": "Home",
+      "label": "Text: Photocatalysis",
+      "kind": "text",
+      "value": "Photocatalysis"
+    },
+    "Home.042": {
+      "group": "Home",
+      "label": "Text: Long-lived molecular hydrogen evolution",
+      "kind": "text",
+      "value": "Long-lived molecular hydrogen evolution"
+    },
+    "Home.043": {
+      "group": "Home",
+      "label": "Text: Collaborative nickel-complex research connects ligand design, photophy",
+      "kind": "text",
+      "value": "Collaborative nickel-complex research connects ligand design, photophysics and catalytic durability."
+    },
+    "Home.044": {
+      "group": "Home",
+      "label": "eyebrow: Publications",
+      "kind": "text",
+      "value": "Publications"
+    },
+    "Home.045": {
+      "group": "Home",
+      "label": "title: Latest work",
+      "kind": "text",
+      "value": "Latest work"
+    },
+    "Home.046": {
+      "group": "Home",
+      "label": "intro: The newest publications currently listed by Team VW.",
+      "kind": "text",
+      "value": "The newest publications currently listed by Team VW."
+    },
+    "Home.047": {
+      "group": "Home",
+      "label": "Text: All publications",
+      "kind": "text",
+      "value": "All publications "
+    },
+    "Home.048": {
+      "group": "Home",
+      "label": "eyebrow: People",
+      "kind": "text",
+      "value": "People"
+    },
+    "Home.049": {
+      "group": "Home",
+      "label": "title: Meet Team VW",
+      "kind": "text",
+      "value": "Meet Team VW"
+    },
+    "Home.050": {
+      "group": "Home",
+      "label": "intro: An international research community spanning molecular chemistry, elec",
+      "kind": "text",
+      "value": "An international research community spanning molecular chemistry, electrochemistry, photochemistry and catalysis."
+    },
+    "Home.051": {
+      "group": "Home",
+      "label": "Text: Full team",
+      "kind": "text",
+      "value": "Full team "
+    },
+    "Home.052": {
+      "group": "Home",
+      "label": "eyebrow: Latest from the lab",
+      "kind": "text",
+      "value": "Latest from the lab"
+    },
+    "Home.053": {
+      "group": "Home",
+      "label": "title: News & milestones",
+      "kind": "text",
+      "value": "News & milestones"
+    },
+    "Home.054": {
+      "group": "Home",
+      "label": "intro: Publications, awards, conferences and new members from Team VW.",
+      "kind": "text",
+      "value": "Publications, awards, conferences and new members from Team VW."
+    },
+    "Home.055": {
+      "group": "Home",
+      "label": "Text: News archive",
+      "kind": "text",
+      "value": "News archive "
+    },
+    "Home.056": {
+      "group": "Home",
+      "label": "Text: Join Team VW",
+      "kind": "text",
+      "value": "Join Team VW"
+    },
+    "Home.057": {
+      "group": "Home",
+      "label": "Text: Bring your questions.",
+      "kind": "text",
+      "value": "Bring your questions."
+    },
+    "Home.058": {
+      "group": "Home",
+      "label": "Text: Build better chemistry.",
+      "kind": "text",
+      "value": "Build better chemistry."
+    },
+    "Home.059": {
+      "group": "Home",
+      "label": "Text: Opportunities for postdoctoral researchers, graduate students, undergr",
+      "kind": "text",
+      "value": "Opportunities for postdoctoral researchers, graduate students, undergraduate researchers and international interns."
+    },
+    "Home.060": {
+      "group": "Home",
+      "label": "Text: Explore opportunities",
+      "kind": "text",
+      "value": "Explore opportunities "
+    },
+    "Home.061": {
+      "group": "Home",
+      "label": "Text: Contact Prof. Wang",
+      "kind": "text",
+      "value": "Contact Prof. Wang"
+    },
+    "JoinUs.001": {
+      "group": "JoinUs",
+      "label": "title: Postdoctoral Researchers",
+      "kind": "text",
+      "value": "Postdoctoral Researchers"
+    },
+    "JoinUs.002": {
+      "group": "JoinUs",
+      "label": "text: Team VW welcomes highly motivated researchers with strong interests in",
+      "kind": "text",
+      "value": "Team VW welcomes highly motivated researchers with strong interests in artificial photosynthesis, photoredox catalysis, electrosynthesis or related sustainable catalytic chemistry."
+    },
+    "JoinUs.003": {
+      "group": "JoinUs",
+      "label": "requirements: Curriculum vitae",
+      "kind": "text",
+      "value": "Curriculum vitae"
+    },
+    "JoinUs.004": {
+      "group": "JoinUs",
+      "label": "requirements: Cover letter describing prior achievements and fit with Team VW resear",
+      "kind": "text",
+      "value": "Cover letter describing prior achievements and fit with Team VW research themes"
+    },
+    "JoinUs.005": {
+      "group": "JoinUs",
+      "label": "requirements: Contact email addresses for three references",
+      "kind": "text",
+      "value": "Contact email addresses for three references"
+    },
+    "JoinUs.006": {
+      "group": "JoinUs",
+      "label": "requirements: Keep the cover letter to no more than two pages",
+      "kind": "text",
+      "value": "Keep the cover letter to no more than two pages"
+    },
+    "JoinUs.007": {
+      "group": "JoinUs",
+      "label": "title: PhD Students",
+      "kind": "text",
+      "value": "PhD Students"
+    },
+    "JoinUs.008": {
+      "group": "JoinUs",
+      "label": "text: Prospective PhD students are encouraged to contact Prof. Wang directly",
+      "kind": "text",
+      "value": "Prospective PhD students are encouraged to contact Prof. Wang directly to discuss research fit and current availability."
+    },
+    "JoinUs.009": {
+      "group": "JoinUs",
+      "label": "requirements: Curriculum vitae",
+      "kind": "text",
+      "value": "Curriculum vitae"
+    },
+    "JoinUs.010": {
+      "group": "JoinUs",
+      "label": "requirements: Cover letter",
+      "kind": "text",
+      "value": "Cover letter"
+    },
+    "JoinUs.011": {
+      "group": "JoinUs",
+      "label": "requirements: A clear description of research interests",
+      "kind": "text",
+      "value": "A clear description of research interests"
+    },
+    "JoinUs.012": {
+      "group": "JoinUs",
+      "label": "title: MS Students",
+      "kind": "text",
+      "value": "MS Students"
+    },
+    "JoinUs.013": {
+      "group": "JoinUs",
+      "label": "text: Team VW typically expects to accept two to three MS students each year",
+      "kind": "text",
+      "value": "Team VW typically expects to accept two to three MS students each year, subject to current laboratory capacity and project availability."
+    },
+    "JoinUs.014": {
+      "group": "JoinUs",
+      "label": "requirements: Contact Prof. Wang by email",
+      "kind": "text",
+      "value": "Contact Prof. Wang by email"
+    },
+    "JoinUs.015": {
+      "group": "JoinUs",
+      "label": "requirements: Describe your research interests",
+      "kind": "text",
+      "value": "Describe your research interests"
+    },
+    "JoinUs.016": {
+      "group": "JoinUs",
+      "label": "requirements: Discuss potential thesis directions",
+      "kind": "text",
+      "value": "Discuss potential thesis directions"
+    },
+    "JoinUs.017": {
+      "group": "JoinUs",
+      "label": "title: Undergraduate Researchers",
+      "kind": "text",
+      "value": "Undergraduate Researchers"
+    },
+    "JoinUs.018": {
+      "group": "JoinUs",
+      "label": "text: Highly motivated undergraduate students are welcome to discuss researc",
+      "kind": "text",
+      "value": "Highly motivated undergraduate students are welcome to discuss research opportunities and gain early hands-on laboratory experience."
+    },
+    "JoinUs.019": {
+      "group": "JoinUs",
+      "label": "requirements: Introduce yourself and your interests",
+      "kind": "text",
+      "value": "Introduce yourself and your interests"
+    },
+    "JoinUs.020": {
+      "group": "JoinUs",
+      "label": "requirements: Ask about current project availability",
+      "kind": "text",
+      "value": "Ask about current project availability"
+    },
+    "JoinUs.021": {
+      "group": "JoinUs",
+      "label": "requirements: Visit or contact the laboratory",
+      "kind": "text",
+      "value": "Visit or contact the laboratory"
+    },
+    "JoinUs.022": {
+      "group": "JoinUs",
+      "label": "title: Join Team VW | Research Opportunities at NSYSU",
+      "kind": "text",
+      "value": "Join Team VW | Research Opportunities at NSYSU"
+    },
+    "JoinUs.023": {
+      "group": "JoinUs",
+      "label": "description: Explore postdoctoral, PhD, MS, undergraduate and international interns",
+      "kind": "text",
+      "value": "Explore postdoctoral, PhD, MS, undergraduate and international internship opportunities with Team VW at National Sun Yat-sen University."
+    },
+    "JoinUs.024": {
+      "group": "JoinUs",
+      "label": "eyebrow: Join us",
+      "kind": "text",
+      "value": "Join us"
+    },
+    "JoinUs.025": {
+      "group": "JoinUs",
+      "label": "title: Do Incisive chemistry with an international team.",
+      "kind": "text",
+      "value": "Do Incisive chemistry with an international team."
+    },
+    "JoinUs.026": {
+      "group": "JoinUs",
+      "label": "intro: Team VW values diverse backgrounds, cultures and experiences—and the d",
+      "kind": "text",
+      "value": "Team VW values diverse backgrounds, cultures and experiences—and the different scientific questions they make possible."
+    },
+    "JoinUs.027": {
+      "group": "JoinUs",
+      "label": "Text: Contact Prof. Wang",
+      "kind": "text",
+      "value": "Contact Prof. Wang "
+    },
+    "JoinUs.028": {
+      "group": "JoinUs",
+      "label": "eyebrow: Opportunities",
+      "kind": "text",
+      "value": "Opportunities"
+    },
+    "JoinUs.029": {
+      "group": "JoinUs",
+      "label": "title: Find your path into the lab.",
+      "kind": "text",
+      "value": "Find your path into the lab."
+    },
+    "JoinUs.030": {
+      "group": "JoinUs",
+      "label": "intro: Application details below are reorganized from Team VW’s current recru",
+      "kind": "text",
+      "value": "Application details below are reorganized from Team VW’s current recruitment page. Availability can change, so direct contact is the final confirmation."
+    },
+    "JoinUs.031": {
+      "group": "JoinUs",
+      "label": "Text: 0",
+      "kind": "text",
+      "value": "0"
+    },
+    "JoinUs.032": {
+      "group": "JoinUs",
+      "label": "Text: International internships",
+      "kind": "text",
+      "value": "International internships"
+    },
+    "JoinUs.033": {
+      "group": "JoinUs",
+      "label": "Text: Research experience in Taiwan.",
+      "kind": "text",
+      "value": "Research experience in Taiwan."
+    },
+    "JoinUs.034": {
+      "group": "JoinUs",
+      "label": "Text: The current Team VW site points international interns to two Taiwan pr",
+      "kind": "text",
+      "value": "The current Team VW site points international interns to two Taiwan programs: the Ministry of Education’s Taiwan Experience Education Program (TEEP) and the NSTC International Internship Pilot Program (IIPP)."
+    },
+    "JoinUs.035": {
+      "group": "JoinUs",
+      "label": "Text: Program rules, funding and application windows change by year. Use the",
+      "kind": "text",
+      "value": "Program rules, funding and application windows change by year. Use the official program sites for the latest requirements before applying."
+    },
+    "JoinUs.036": {
+      "group": "JoinUs",
+      "label": "Text: Ministry of Education",
+      "kind": "text",
+      "value": "Ministry of Education"
+    },
+    "JoinUs.037": {
+      "group": "JoinUs",
+      "label": "Text: Taiwan Experience Education Program (TEEP)",
+      "kind": "text",
+      "value": "Taiwan Experience Education Program (TEEP)"
+    },
+    "JoinUs.038": {
+      "group": "JoinUs",
+      "label": "Text: National Science and Technology Council",
+      "kind": "text",
+      "value": "National Science and Technology Council"
+    },
+    "JoinUs.039": {
+      "group": "JoinUs",
+      "label": "Text: International Internship Pilot Program (IIPP)",
+      "kind": "text",
+      "value": "International Internship Pilot Program (IIPP)"
+    },
+    "JoinUs.040": {
+      "group": "JoinUs",
+      "label": "Text: Ready to start a conversation?",
+      "kind": "text",
+      "value": "Ready to start a conversation?"
+    },
+    "JoinUs.041": {
+      "group": "JoinUs",
+      "label": "Text: Contact Prof. Vincent C.-C. Wang",
+      "kind": "text",
+      "value": "Contact Prof. Vincent C.-C. Wang"
+    },
+    "JoinUs.042": {
+      "group": "JoinUs",
+      "label": "Text: Send a concise introduction, your CV and the information requested for",
+      "kind": "text",
+      "value": "Send a concise introduction, your CV and the information requested for your applicant category."
+    },
+    "JoinUs.043": {
+      "group": "JoinUs",
+      "label": "Text: Write an email",
+      "kind": "text",
+      "value": "Write an email "
+    },
+    "LabLife.001": {
+      "group": "LabLife",
+      "label": "title: Lab Life | Team VW",
+      "kind": "text",
+      "value": "Lab Life | Team VW"
+    },
+    "LabLife.002": {
+      "group": "LabLife",
+      "label": "description: A glimpse of Team VW beyond experiments: lab meals, celebrations, trip",
+      "kind": "text",
+      "value": "A glimpse of Team VW beyond experiments: lab meals, celebrations, trips and community at NSYSU."
+    },
+    "LabLife.003": {
+      "group": "LabLife",
+      "label": "eyebrow: People · Lab life",
+      "kind": "text",
+      "value": "People · Lab life"
+    },
+    "LabLife.004": {
+      "group": "LabLife",
+      "label": "title: Science is collaborative. So is everything around it.",
+      "kind": "text",
+      "value": "Science is collaborative. So is everything around it."
+    },
+    "LabLife.005": {
+      "group": "LabLife",
+      "label": "intro: Meals, celebrations, travel and the small moments that build a researc",
+      "kind": "text",
+      "value": "Meals, celebrations, travel and the small moments that build a research community."
+    },
+    "LabLife.006": {
+      "group": "LabLife",
+      "label": "Text: Beyond the lab bench",
+      "kind": "text",
+      "value": "Beyond the lab bench"
+    },
+    "LabLife.007": {
+      "group": "LabLife",
+      "label": "Text: An archive of shared moments.",
+      "kind": "text",
+      "value": "An archive of shared moments."
+    },
+    "LabLife.008": {
+      "group": "LabLife",
+      "label": "Text: The original Team VW site preserves group meals, Christmas celebration",
+      "kind": "text",
+      "value": "The original Team VW site preserves group meals, Christmas celebrations, trips and other lab-life moments alongside scientific milestones. The redesign keeps that human history visible without turning it into generic stock imagery."
+    },
+    "LabLife.009": {
+      "group": "LabLife",
+      "label": "Text: High-resolution photo migration",
+      "kind": "text",
+      "value": "High-resolution photo migration"
+    },
+    "LabLife.010": {
+      "group": "LabLife",
+      "label": "Text: The current Google Sites media endpoints block reliable direct extract",
+      "kind": "text",
+      "value": "The current Google Sites media endpoints block reliable direct extraction. Drop approved original lab photos into "
+    },
+    "LabLife.011": {
+      "group": "LabLife",
+      "label": "Text: public/images/lab-life/",
+      "kind": "text",
+      "value": "public/images/lab-life/"
+    },
+    "LabLife.012": {
+      "group": "LabLife",
+      "label": "Text: and connect them in the news data file; the layout is ready for real i",
+      "kind": "text",
+      "value": " and connect them in the news data file; the layout is ready for real imagery."
+    },
+    "News.001": {
+      "group": "News",
+      "label": "title: News & Updates | Team VW",
+      "kind": "text",
+      "value": "News & Updates | Team VW"
+    },
+    "News.002": {
+      "group": "News",
+      "label": "description: Publications, awards, conferences, team milestones and lab life from T",
+      "kind": "text",
+      "value": "Publications, awards, conferences, team milestones and lab life from Team VW at NSYSU."
+    },
+    "News.003": {
+      "group": "News",
+      "label": "eyebrow: News & updates",
+      "kind": "text",
+      "value": "News & updates"
+    },
+    "News.004": {
+      "group": "News",
+      "label": "title: Science moves. Teams grow.",
+      "kind": "text",
+      "value": "Science moves. Teams grow."
+    },
+    "News.005": {
+      "group": "News",
+      "label": "intro: Publications, awards, conferences and everyday milestones from the Tea",
+      "kind": "text",
+      "value": "Publications, awards, conferences and everyday milestones from the Team VW research community."
+    },
+    "News.006": {
+      "group": "News",
+      "label": "Text: Year",
+      "kind": "text",
+      "value": "Year"
+    },
+    "News.007": {
+      "group": "News",
+      "label": "Text: All",
+      "kind": "text",
+      "value": "All"
+    },
+    "News.008": {
+      "group": "News",
+      "label": "Text: Category",
+      "kind": "text",
+      "value": "Category"
+    },
+    "News.009": {
+      "group": "News",
+      "label": "Text: update",
+      "kind": "text",
+      "value": " update"
+    },
+    "News.010": {
+      "group": "News",
+      "label": "Text: Clear filters",
+      "kind": "text",
+      "value": "Clear filters"
+    },
+    "News.011": {
+      "group": "News",
+      "label": "Text: No updates in this view.",
+      "kind": "text",
+      "value": "No updates in this view."
+    },
+    "News.012": {
+      "group": "News",
+      "label": "Text: Clear the filters to return to the complete Team VW archive.",
+      "kind": "text",
+      "value": "Clear the filters to return to the complete Team VW archive."
+    },
+    "NewsArticle.001": {
+      "group": "NewsArticle",
+      "label": "Text: News archive",
+      "kind": "text",
+      "value": "News archive"
+    },
+    "NewsArticle.002": {
+      "group": "NewsArticle",
+      "label": "Text: This update is preserved from the concise news archive on the original",
+      "kind": "text",
+      "value": "This update is preserved from the concise news archive on the original Team VW website. No additional article text was published there."
+    },
+    "NewsArticle.003": {
+      "group": "NewsArticle",
+      "label": "Text: Related links",
+      "kind": "text",
+      "value": "Related links"
+    },
+    "NewsArticle.004": {
+      "group": "NewsArticle",
+      "label": "Text: TEAM VW ARCHIVE",
+      "kind": "text",
+      "value": "TEAM VW ARCHIVE"
+    },
+    "NewsArticle.005": {
+      "group": "NewsArticle",
+      "label": "Text: All news",
+      "kind": "text",
+      "value": "All news "
+    },
+    "NotFound.001": {
+      "group": "NotFound",
+      "label": "title: Page Not Found | Team VW",
+      "kind": "text",
+      "value": "Page Not Found | Team VW"
+    },
+    "NotFound.002": {
+      "group": "NotFound",
+      "label": "description: The requested Team VW page could not be found.",
+      "kind": "text",
+      "value": "The requested Team VW page could not be found."
+    },
+    "NotFound.003": {
+      "group": "NotFound",
+      "label": "Text: 404 · Unresolved pathway",
+      "kind": "text",
+      "value": "404 · Unresolved pathway"
+    },
+    "NotFound.004": {
+      "group": "NotFound",
+      "label": "Text: This reaction went somewhere unexpected.",
+      "kind": "text",
+      "value": "This reaction went somewhere unexpected."
+    },
+    "NotFound.005": {
+      "group": "NotFound",
+      "label": "Text: The page may have moved, or the route may no longer exist.",
+      "kind": "text",
+      "value": "The page may have moved, or the route may no longer exist."
+    },
+    "NotFound.006": {
+      "group": "NotFound",
+      "label": "Text: Return home",
+      "kind": "text",
+      "value": "Return home"
+    },
+    "People.001": {
+      "group": "People",
+      "label": "title: People | Team VW",
+      "kind": "text",
+      "value": "People | Team VW"
+    },
+    "People.002": {
+      "group": "People",
+      "label": "description: Meet the researchers, students and staff of Team VW at National Sun Ya",
+      "kind": "text",
+      "value": "Meet the researchers, students and staff of Team VW at National Sun Yat-sen University."
+    },
+    "People.003": {
+      "group": "People",
+      "label": "eyebrow: People",
+      "kind": "text",
+      "value": "People"
+    },
+    "People.004": {
+      "group": "People",
+      "label": "title: Curious minds. Shared mechanisms.",
+      "kind": "text",
+      "value": "Curious minds. Shared mechanisms."
+    },
+    "People.005": {
+      "group": "People",
+      "label": "intro: Team VW brings together researchers from different backgrounds around ",
+      "kind": "text",
+      "value": "Team VW brings together researchers from different backgrounds around a common interest in sustainable catalytic chemistry."
+    },
+    "People.006": {
+      "group": "People",
+      "label": "Text: Current team",
+      "kind": "text",
+      "value": "Current team"
+    },
+    "People.007": {
+      "group": "People",
+      "label": "Text: people",
+      "kind": "text",
+      "value": " people"
+    },
+    "People.008": {
+      "group": "People",
+      "label": "Text: Search team",
+      "kind": "text",
+      "value": "Search team"
+    },
+    "People.009": {
+      "group": "People",
+      "label": "placeholder: Search by name or research area…",
+      "kind": "text",
+      "value": "Search by name or research area…"
+    },
+    "People.010": {
+      "group": "People",
+      "label": "Text: No team members match “",
+      "kind": "text",
+      "value": "No team members match “"
+    },
+    "People.011": {
+      "group": "People",
+      "label": "Text: ”.",
+      "kind": "text",
+      "value": "”."
+    },
+    "People.012": {
+      "group": "People",
+      "label": "Text: Try a different name, role or research topic.",
+      "kind": "text",
+      "value": "Try a different name, role or research topic."
+    },
+    "People.013": {
+      "group": "People",
+      "label": "Text: Clear search",
+      "kind": "text",
+      "value": "Clear search"
+    },
+    "People.014": {
+      "group": "People",
+      "label": "Text: Team history",
+      "kind": "text",
+      "value": "Team history"
+    },
+    "People.015": {
+      "group": "People",
+      "label": "Text: Former researchers remain part of the story.",
+      "kind": "text",
+      "value": "Former researchers remain part of the story."
+    },
+    "People.016": {
+      "group": "People",
+      "label": "Text: Explore alumni, past thesis projects and undergraduate researchers.",
+      "kind": "text",
+      "value": "Explore alumni, past thesis projects and undergraduate researchers."
+    },
+    "People.017": {
+      "group": "People",
+      "label": "Text: View alumni",
+      "kind": "text",
+      "value": "View alumni"
+    },
+    "PersonProfile.001": {
+      "group": "PersonProfile",
+      "label": "Text: Back to People",
+      "kind": "text",
+      "value": "Back to People"
+    },
+    "PersonProfile.002": {
+      "group": "PersonProfile",
+      "label": "Text: a.k.a.",
+      "kind": "text",
+      "value": "a.k.a. "
+    },
+    "PersonProfile.003": {
+      "group": "PersonProfile",
+      "label": "Text: Email",
+      "kind": "text",
+      "value": "Email"
+    },
+    "PersonProfile.004": {
+      "group": "PersonProfile",
+      "label": "Text: Profile",
+      "kind": "text",
+      "value": "Profile"
+    },
+    "PersonProfile.005": {
+      "group": "PersonProfile",
+      "label": "Text: Background",
+      "kind": "text",
+      "value": "Background"
+    },
+    "PersonProfile.006": {
+      "group": "PersonProfile",
+      "label": "Text: Detailed profile information has not yet been published on the Team VW",
+      "kind": "text",
+      "value": "Detailed profile information has not yet been published on the Team VW website."
+    },
+    "PersonProfile.007": {
+      "group": "PersonProfile",
+      "label": "Text: Research interests",
+      "kind": "text",
+      "value": "Research interests"
+    },
+    "PersonProfile.008": {
+      "group": "PersonProfile",
+      "label": "Text: Education",
+      "kind": "text",
+      "value": "Education"
+    },
+    "PersonProfile.009": {
+      "group": "PersonProfile",
+      "label": "Text: Experience",
+      "kind": "text",
+      "value": "Experience"
+    },
+    "PersonProfile.010": {
+      "group": "PersonProfile",
+      "label": "Text: Links",
+      "kind": "text",
+      "value": "Links"
+    },
+    "Publications.001": {
+      "group": "Publications",
+      "label": "title: Publications | Team VW",
+      "kind": "text",
+      "value": "Publications | Team VW"
+    },
+    "Publications.002": {
+      "group": "Publications",
+      "label": "description: Search publications from Team VW across electrocatalysis, photoredox c",
+      "kind": "text",
+      "value": "Search publications from Team VW across electrocatalysis, photoredox catalysis, bioinorganic chemistry, CO₂ chemistry and electrochemical kinetics."
+    },
+    "Publications.003": {
+      "group": "Publications",
+      "label": "eyebrow: Publications",
+      "kind": "text",
+      "value": "Publications"
+    },
+    "Publications.004": {
+      "group": "Publications",
+      "label": "title: Ideas tested, mechanisms resolved.",
+      "kind": "text",
+      "value": "Ideas tested, mechanisms resolved."
+    },
+    "Publications.005": {
+      "group": "Publications",
+      "label": "intro: Browse Team VW publications and collaborations from molecular catalysi",
+      "kind": "text",
+      "value": "Browse Team VW publications and collaborations from molecular catalysis and photochemistry to bioinorganic chemistry and electrokinetic modelling."
+    },
+    "Publications.006": {
+      "group": "Publications",
+      "label": "Text: Search publications",
+      "kind": "text",
+      "value": "Search publications"
+    },
+    "Publications.007": {
+      "group": "Publications",
+      "label": "placeholder: Search title, author, journal or topic…",
+      "kind": "text",
+      "value": "Search title, author, journal or topic…"
+    },
+    "Publications.008": {
+      "group": "Publications",
+      "label": "aria-label: Clear search",
+      "kind": "text",
+      "value": "Clear search"
+    },
+    "Publications.009": {
+      "group": "Publications",
+      "label": "aria-label: Filter by publication year",
+      "kind": "text",
+      "value": "Filter by publication year"
+    },
+    "Publications.010": {
+      "group": "Publications",
+      "label": "Text: Filter by topic",
+      "kind": "text",
+      "value": "Filter by topic"
+    },
+    "Publications.011": {
+      "group": "Publications",
+      "label": "Text: All topics",
+      "kind": "text",
+      "value": "All topics"
+    },
+    "Publications.012": {
+      "group": "Publications",
+      "label": "Text: publication",
+      "kind": "text",
+      "value": " publication"
+    },
+    "Publications.013": {
+      "group": "Publications",
+      "label": "Text: Clear filters",
+      "kind": "text",
+      "value": "Clear filters"
+    },
+    "Publications.014": {
+      "group": "Publications",
+      "label": "Text: publication",
+      "kind": "text",
+      "value": " publication"
+    },
+    "Publications.015": {
+      "group": "Publications",
+      "label": "Text: No publications match your filters.",
+      "kind": "text",
+      "value": "No publications match your filters."
+    },
+    "Publications.016": {
+      "group": "Publications",
+      "label": "Text: Try another year, topic or search term.",
+      "kind": "text",
+      "value": "Try another year, topic or search term."
+    },
+    "Publications.017": {
+      "group": "Publications",
+      "label": "Text: Clear filters",
+      "kind": "text",
+      "value": "Clear filters"
+    },
+    "Research.001": {
+      "group": "Research",
+      "label": "title: Research | Team VW – Electrocatalysis & Photoredox Catalysis",
+      "kind": "text",
+      "value": "Research | Team VW – Electrocatalysis & Photoredox Catalysis"
+    },
+    "Research.002": {
+      "group": "Research",
+      "label": "description: Explore Team VW research in sustainable catalysis, mechanistic electro",
+      "kind": "text",
+      "value": "Explore Team VW research in sustainable catalysis, mechanistic electrocatalysis, photoelectrocatalysis and photoredox chemistry at NSYSU."
+    },
+    "Research.003": {
+      "group": "Research",
+      "label": "eyebrow: Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    "Research.004": {
+      "group": "Research",
+      "label": "title: Mechanistic insight for sustainable chemical transformations.",
+      "kind": "text",
+      "value": "Mechanistic insight for sustainable chemical transformations."
+    },
+    "Research.005": {
+      "group": "Research",
+      "label": "intro: We study how electrons, protons, photons and molecular structure work ",
+      "kind": "text",
+      "value": "We study how electrons, protons, photons and molecular structure work together across catalytic reaction networks."
+    },
+    "Research.006": {
+      "group": "Research",
+      "label": "Text: Sustainable catalysis",
+      "kind": "text",
+      "value": "Sustainable catalysis"
+    },
+    "Research.007": {
+      "group": "Research",
+      "label": "Text: Better pathways begin with better understanding.",
+      "kind": "text",
+      "value": "Better pathways begin with better understanding."
+    },
+    "Research.008": {
+      "group": "Research",
+      "label": "Text: Climate change and the energy demands of chemical manufacturing motiva",
+      "kind": "text",
+      "value": "Climate change and the energy demands of chemical manufacturing motivate new approaches to essential redox chemistry. Processes such as Haber–Bosch nitrogen fixation and conventional hydrogen production historically rely on high temperature or high pressure."
+    },
+    "Research.009": {
+      "group": "Research",
+      "label": "Text: Team VW studies fundamental mechanisms of energy-conversion reactions ",
+      "kind": "text",
+      "value": "Team VW studies fundamental mechanisms of energy-conversion reactions and explores how carefully designed catalysts can use light or electricity under milder conditions. The objective is not simply to make a catalyst work, but to understand the reaction network well enough to improve it rationally."
+    },
+    "Research.010": {
+      "group": "Research",
+      "label": "Text: Conceptual illustration · decorative, not experimental data",
+      "kind": "text",
+      "value": "Conceptual illustration · decorative, not experimental data"
+    },
+    "Research.011": {
+      "group": "Research",
+      "label": "Text: Research questions",
+      "kind": "text",
+      "value": "Research questions"
+    },
+    "Research.012": {
+      "group": "Research",
+      "label": "Text: Approaches",
+      "kind": "text",
+      "value": "Approaches"
+    },
+    "Research.013": {
+      "group": "Research",
+      "label": "Text: Selected publications",
+      "kind": "text",
+      "value": "Selected publications"
+    },
+    "Research.014": {
+      "group": "Research",
+      "label": "Text: Browse all",
+      "kind": "text",
+      "value": "Browse all "
+    },
+    "Research.015": {
+      "group": "Research",
+      "label": "Text: Scientific context",
+      "kind": "text",
+      "value": "Scientific context"
+    },
+    "Research.016": {
+      "group": "Research",
+      "label": "Text: From molecular systems to interfaces.",
+      "kind": "text",
+      "value": "From molecular systems to interfaces."
+    },
+    "Research.017": {
+      "group": "Research",
+      "label": "Text: Team VW’s research story spans homogeneous molecular catalysis, hetero",
+      "kind": "text",
+      "value": "Team VW’s research story spans homogeneous molecular catalysis, heterogeneous films, semiconductor interfaces and biological inspiration. That breadth is connected by a common question: what elementary processes control the observable catalytic response?"
+    },
+    "Research.018": {
+      "group": "Research",
+      "label": "href: https://chem.nsysu.edu.tw/en/vincent-wang/",
+      "kind": "link",
+      "value": "https://chem.nsysu.edu.tw/en/vincent-wang/"
+    },
+    "Research.019": {
+      "group": "Research",
+      "label": "Text: NSYSU faculty profile",
+      "kind": "text",
+      "value": "NSYSU faculty profile "
+    },
+    "ResearchOverview.001": {
+      "group": "ResearchOverview",
+      "label": "eyebrow: Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    "ResearchOverview.002": {
+      "group": "ResearchOverview",
+      "label": "title: Understanding reactions. Designing better catalysts.",
+      "kind": "text",
+      "value": "Understanding reactions. Designing better catalysts."
+    },
+    "ResearchOverview.003": {
+      "group": "ResearchOverview",
+      "label": "intro: Team VW connects mechanistic electrochemistry, photochemistry and mole",
+      "kind": "text",
+      "value": "Team VW connects mechanistic electrochemistry, photochemistry and molecular design to understand difficult multi-electron transformations."
+    },
+    "ResearchOverview.004": {
+      "group": "ResearchOverview",
+      "label": "Text: Explore",
+      "kind": "text",
+      "value": "Explore "
+    },
+    "ResearchPathway.001": {
+      "group": "ResearchPathway",
+      "label": "Text: Research philosophy",
+      "kind": "text",
+      "value": "Research philosophy"
+    },
+    "ResearchPathway.002": {
+      "group": "ResearchPathway",
+      "label": "Text: Replace harsh conditions with smarter reaction pathways.",
+      "kind": "text",
+      "value": "Replace harsh conditions with smarter reaction pathways."
+    },
+    "ResearchPathway.003": {
+      "group": "ResearchPathway",
+      "label": "Text: Processes such as nitrogen fixation and hydrogen production have histo",
+      "kind": "text",
+      "value": "Processes such as nitrogen fixation and hydrogen production have historically relied on high-temperature or high-pressure chemistry. Team VW studies the fundamental redox mechanisms needed to rethink selected transformations around light, electricity and better catalysts."
+    },
+    "ResearchPathway.004": {
+      "group": "ResearchPathway",
+      "label": "Text: Conceptual comparison only — not a quantitative energy claim.",
+      "kind": "text",
+      "value": "Conceptual comparison only — not a quantitative energy claim."
+    },
+    "ResearchPathway.005": {
+      "group": "ResearchPathway",
+      "label": "aria-label: Conceptual comparison between conventional high-energy processing and ",
+      "kind": "text",
+      "value": "Conceptual comparison between conventional high-energy processing and a catalyst-driven approach"
+    },
+    "ResearchPathway.006": {
+      "group": "ResearchPathway",
+      "label": "Text: Conventional process",
+      "kind": "text",
+      "value": "Conventional process"
+    },
+    "ResearchPathway.007": {
+      "group": "ResearchPathway",
+      "label": "Text: High energy",
+      "kind": "text",
+      "value": "High energy"
+    },
+    "ResearchPathway.008": {
+      "group": "ResearchPathway",
+      "label": "Text: Heat / pressure",
+      "kind": "text",
+      "value": "Heat / pressure"
+    },
+    "ResearchPathway.009": {
+      "group": "ResearchPathway",
+      "label": "Text: Energy-intensive transformation",
+      "kind": "text",
+      "value": "Energy-intensive transformation"
+    },
+    "ResearchPathway.010": {
+      "group": "ResearchPathway",
+      "label": "Text: RETHINK",
+      "kind": "text",
+      "value": "RETHINK"
+    },
+    "ResearchPathway.011": {
+      "group": "ResearchPathway",
+      "label": "Text: Team VW approach",
+      "kind": "text",
+      "value": "Team VW approach"
+    },
+    "ResearchPathway.012": {
+      "group": "ResearchPathway",
+      "label": "Text: Sunlight",
+      "kind": "text",
+      "value": "Sunlight"
+    },
+    "ResearchPathway.013": {
+      "group": "ResearchPathway",
+      "label": "Text: Electricity",
+      "kind": "text",
+      "value": "Electricity"
+    },
+    "ResearchPathway.014": {
+      "group": "ResearchPathway",
+      "label": "Text: Cat.",
+      "kind": "text",
+      "value": "Cat."
+    },
+    "ResearchPathway.015": {
+      "group": "ResearchPathway",
+      "label": "Text: Catalyst",
+      "kind": "text",
+      "value": "Catalyst"
+    },
+    "ResearchPathway.016": {
+      "group": "ResearchPathway",
+      "label": "Text: Chemical transformation",
+      "kind": "text",
+      "value": "Chemical transformation"
+    },
+    "ScientificHero.001": {
+      "group": "ScientificHero",
+      "label": "label: e⁻",
+      "kind": "text",
+      "value": "e⁻"
+    },
+    "ScientificHero.002": {
+      "group": "ScientificHero",
+      "label": "label: hν",
+      "kind": "text",
+      "value": "hν"
+    },
+    "ScientificHero.003": {
+      "group": "ScientificHero",
+      "label": "label: H⁺",
+      "kind": "text",
+      "value": "H⁺"
+    },
+    "ScientificHero.004": {
+      "group": "ScientificHero",
+      "label": "label: CO₂",
+      "kind": "text",
+      "value": "CO₂"
+    },
+    "ScientificHero.005": {
+      "group": "ScientificHero",
+      "label": "aria-label: Abstract illustration of light, electrons and proton transfer around a",
+      "kind": "text",
+      "value": "Abstract illustration of light, electrons and proton transfer around a molecular catalyst"
+    },
+    "ScientificHero.006": {
+      "group": "ScientificHero",
+      "label": "Text: VW",
+      "kind": "text",
+      "value": "VW"
+    },
+    "ScientificHero.007": {
+      "group": "ScientificHero",
+      "label": "Text: CATALYSIS",
+      "kind": "text",
+      "value": "CATALYSIS"
+    },
+    "ScientificHero.008": {
+      "group": "ScientificHero",
+      "label": "Text: mechanism",
+      "kind": "text",
+      "value": "mechanism"
+    },
+    "ScientificHero.009": {
+      "group": "ScientificHero",
+      "label": "Text: molecular design",
+      "kind": "text",
+      "value": "molecular design"
+    },
+    "ScientificHero.010": {
+      "group": "ScientificHero",
+      "label": "Text: energy conversion",
+      "kind": "text",
+      "value": "energy conversion"
+    },
+    "Footer.001": {
+      "group": "Footer",
+      "label": "Text: VW",
+      "kind": "text",
+      "value": "VW"
+    },
+    "Footer.002": {
+      "group": "Footer",
+      "label": "Text: TEAM VW",
+      "kind": "text",
+      "value": "TEAM VW"
+    },
+    "Footer.003": {
+      "group": "Footer",
+      "label": "Text: Sustainable Catalysis",
+      "kind": "text",
+      "value": "Sustainable Catalysis"
+    },
+    "Footer.004": {
+      "group": "Footer",
+      "label": "Text: Mechanistic chemistry for sustainable energy conversion and synthesis ",
+      "kind": "text",
+      "value": "Mechanistic chemistry for sustainable energy conversion and synthesis at National Sun Yat-sen University."
+    },
+    "Footer.005": {
+      "group": "Footer",
+      "label": "Text: Explore",
+      "kind": "text",
+      "value": "Explore"
+    },
+    "Footer.006": {
+      "group": "Footer",
+      "label": "Text: Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    "Footer.007": {
+      "group": "Footer",
+      "label": "Text: People",
+      "kind": "text",
+      "value": "People"
+    },
+    "Footer.008": {
+      "group": "Footer",
+      "label": "Text: Publications",
+      "kind": "text",
+      "value": "Publications"
+    },
+    "Footer.009": {
+      "group": "Footer",
+      "label": "Text: News",
+      "kind": "text",
+      "value": "News"
+    },
+    "Footer.010": {
+      "group": "Footer",
+      "label": "Text: Opportunities",
+      "kind": "text",
+      "value": "Opportunities"
+    },
+    "Footer.011": {
+      "group": "Footer",
+      "label": "Text: Postdoctoral",
+      "kind": "text",
+      "value": "Postdoctoral"
+    },
+    "Footer.012": {
+      "group": "Footer",
+      "label": "Text: PhD",
+      "kind": "text",
+      "value": "PhD"
+    },
+    "Footer.013": {
+      "group": "Footer",
+      "label": "Text: MS",
+      "kind": "text",
+      "value": "MS"
+    },
+    "Footer.014": {
+      "group": "Footer",
+      "label": "Text: Internships",
+      "kind": "text",
+      "value": "Internships"
+    },
+    "Footer.015": {
+      "group": "Footer",
+      "label": "Text: Contact",
+      "kind": "text",
+      "value": "Contact"
+    },
+    "Footer.016": {
+      "group": "Footer",
+      "label": "Text: Kaohsiung, Taiwan",
+      "kind": "text",
+      "value": "Kaohsiung, Taiwan"
+    },
+    "Footer.017": {
+      "group": "Footer",
+      "label": "Text: NSYSU Chemistry",
+      "kind": "text",
+      "value": "NSYSU Chemistry "
+    },
+    "Footer.018": {
+      "group": "Footer",
+      "label": "Text: ©",
+      "kind": "text",
+      "value": "© "
+    },
+    "Footer.019": {
+      "group": "Footer",
+      "label": "Text: Team VW · National Sun Yat-sen University",
+      "kind": "text",
+      "value": " Team VW · National Sun Yat-sen University"
+    },
+    "Footer.020": {
+      "group": "Footer",
+      "label": "Text: Science · Sustainability · Collaboration",
+      "kind": "text",
+      "value": "Science · Sustainability · Collaboration"
+    },
+    "Header.001": {
+      "group": "Header",
+      "label": "label: Home",
+      "kind": "text",
+      "value": "Home"
+    },
+    "Header.002": {
+      "group": "Header",
+      "label": "label: Research",
+      "kind": "text",
+      "value": "Research"
+    },
+    "Header.003": {
+      "group": "Header",
+      "label": "label: Publications",
+      "kind": "text",
+      "value": "Publications"
+    },
+    "Header.004": {
+      "group": "Header",
+      "label": "label: News",
+      "kind": "text",
+      "value": "News"
+    },
+    "Header.005": {
+      "group": "Header",
+      "label": "label: Contact",
+      "kind": "text",
+      "value": "Contact"
+    },
+    "Header.006": {
+      "group": "Header",
+      "label": "label: Current Team",
+      "kind": "text",
+      "value": "Current Team"
+    },
+    "Header.007": {
+      "group": "Header",
+      "label": "label: Alumni",
+      "kind": "text",
+      "value": "Alumni"
+    },
+    "Header.008": {
+      "group": "Header",
+      "label": "label: Lab Life",
+      "kind": "text",
+      "value": "Lab Life"
+    },
+    "Header.009": {
+      "group": "Header",
+      "label": "aria-label: Team VW home",
+      "kind": "text",
+      "value": "Team VW home"
+    },
+    "Header.010": {
+      "group": "Header",
+      "label": "Text: VW",
+      "kind": "text",
+      "value": "VW"
+    },
+    "Header.011": {
+      "group": "Header",
+      "label": "Text: TEAM VW",
+      "kind": "text",
+      "value": "TEAM VW"
+    },
+    "Header.012": {
+      "group": "Header",
+      "label": "Text: Sustainable Catalysis · NSYSU",
+      "kind": "text",
+      "value": "Sustainable Catalysis · NSYSU"
+    },
+    "Header.013": {
+      "group": "Header",
+      "label": "aria-label: Primary navigation",
+      "kind": "text",
+      "value": "Primary navigation"
+    },
+    "Header.014": {
+      "group": "Header",
+      "label": "Text: People",
+      "kind": "text",
+      "value": " People "
+    },
+    "Header.015": {
+      "group": "Header",
+      "label": "Text: Join Team VW",
+      "kind": "text",
+      "value": "Join Team VW"
+    },
+    "Header.016": {
+      "group": "Header",
+      "label": "aria-label: Mobile navigation",
+      "kind": "text",
+      "value": "Mobile navigation"
+    },
+    "Header.017": {
+      "group": "Header",
+      "label": "Text: People",
+      "kind": "text",
+      "value": "People"
+    },
+    "Header.018": {
+      "group": "Header",
+      "label": "Text: Join Team VW",
+      "kind": "text",
+      "value": "Join Team VW"
+    },
+    "Layout.001": {
+      "group": "Layout",
+      "label": "href: #main-content",
+      "kind": "link",
+      "value": "#main-content"
+    },
+    "Layout.002": {
+      "group": "Layout",
+      "label": "Text: Skip to content",
+      "kind": "text",
+      "value": "Skip to content"
+    },
+    "NewsCard.001": {
+      "group": "NewsCard",
+      "label": "Text: Read update",
+      "kind": "text",
+      "value": "Read update "
+    },
+    "PersonCard.001": {
+      "group": "PersonCard",
+      "label": "Text: a.k.a.",
+      "kind": "text",
+      "value": "a.k.a. "
+    },
+    "PersonCard.002": {
+      "group": "PersonCard",
+      "label": "Text: View profile",
+      "kind": "text",
+      "value": "View profile "
+    },
+    "PublicationCard.001": {
+      "group": "PublicationCard",
+      "label": "Text: ·",
+      "kind": "text",
+      "value": " · "
+    },
+    "PublicationCard.002": {
+      "group": "PublicationCard",
+      "label": "Text: DOI",
+      "kind": "text",
+      "value": " DOI"
+    },
+    "PublicationCard.003": {
+      "group": "PublicationCard",
+      "label": "Text: Publisher",
+      "kind": "text",
+      "value": " Publisher"
+    },
+    "PublicationCard.004": {
+      "group": "PublicationCard",
+      "label": "Text: Preprint",
+      "kind": "text",
+      "value": "Preprint"
+    },
+    "BackToTop.001": {
+      "group": "BackToTop",
+      "label": "aria-label: Back to top",
+      "kind": "text",
+      "value": "Back to top"
+    },
+    "BackToTop.002": {
+      "group": "BackToTop",
+      "label": "Text: Top",
+      "kind": "text",
+      "value": "Top"
+    },
+    "RouteFallback.001": {
+      "group": "RouteFallback",
+      "label": "Text: VW",
+      "kind": "text",
+      "value": "VW"
+    }
+  },
+  "sections": {
+    "Alumni.section-1": "Alumni section 1",
+    "Contact.section-1": "Map showing National Sun Yat-sen University Chemistry Building",
+    "Contact.section-2": "Contact section 2",
+    "Home.section-1": "Home section 1",
+    "Home.section-2": "How we work",
+    "Home.section-3": "Research highlights",
+    "Home.section-4": "Publications",
+    "Home.section-5": "People",
+    "Home.section-6": "Latest from the lab",
+    "Home.section-7": "Home section 7",
+    "JoinUs.section-1": "Opportunities",
+    "JoinUs.section-2": "JoinUs section 2",
+    "JoinUs.section-3": "JoinUs section 3",
+    "LabLife.section-1": "LabLife section 1",
+    "News.section-1": "News section 1",
+    "NewsArticle.section-1": "NewsArticle section 1",
+    "NotFound.section-1": "NotFound section 1",
+    "People.section-1": "People section 1",
+    "People.section-2": "People section 2",
+    "PersonProfile.section-1": "PersonProfile section 1",
+    "PersonProfile.section-2": "PersonProfile section 2",
+    "Publications.section-1": "Publications section 1",
+    "Publications.section-2": "Publications section 2",
+    "Research.section-1": "Research section 1",
+    "Research.section-2": "Research section 2",
+    "Research.section-3": "Research section 3",
+    "ResearchOverview.section-1": "Research",
+    "ResearchPathway.section-1": "ResearchPathway section 1",
+    "PageHero.section-1": "PageHero section 1"
+  }
+}

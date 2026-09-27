@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071A2B"/><stop offset="1" stop-color="#123B63"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g opacity=".16" stroke="#28B5C7" fill="none"><ellipse cx="930" cy="310" rx="260" ry="95" transform="rotate(24 930 310)"/><ellipse cx="930" cy="310" rx="260" ry="95" transform="rotate(-24 930 310)"/><circle cx="930" cy="310" r="55"/></g>
+  <circle cx="930" cy="310" r="28" fill="#28B5C7"/><circle cx="1060" cy="205" r="10" fill="#F2B84B"/><circle cx="805" cy="418" r="10" fill="#F2B84B"/>
+  <text x="90" y="210" fill="#8EDFE8" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="5">TEAM VW · NSYSU</text>
+  <text x="90" y="320" fill="#F7F9FA" font-family="Arial, sans-serif" font-size="72" font-weight="800">Catalysis for a</text>
+  <text x="90" y="400" fill="#8EDFE8" font-family="Arial, sans-serif" font-size="72" font-weight="800">sustainable future.</text>
+  <text x="90" y="475" fill="#9FB6C1" font-family="Arial, sans-serif" font-size="26">Electrocatalysis · Photoelectrocatalysis · Photoredox catalysis</text>
+</svg>

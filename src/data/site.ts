@@ -1,0 +1,18 @@
+export const site = {
+  name: 'Team VW',
+  organization: 'Department of Chemistry, National Sun Yat-sen University',
+  university: 'National Sun Yat-sen University',
+  shortUniversity: 'NSYSU',
+  url: 'https://www.teamvw.org',
+  email: 'vincent.wang@mail.nsysu.edu.tw',
+  phoneDisplay: '+886-7-5252000 ext. 3949',
+  phoneHref: 'tel:+88675252000',
+  addressLines: ['Chemistry Building', 'No. 70 Lien-Hai Rd.', 'Kaohsiung 80424, Taiwan, R.O.C.'],
+  lab: 'CH5013',
+  office: 'CH5014',
+  mapUrl: 'https://www.google.com/maps/search/?api=1&query=National+Sun+Yat-sen+University+Chemistry+Building',
+  nsysuUrl: 'https://www.nsysu.edu.tw/',
+  chemistryUrl: 'https://chem.nsysu.edu.tw/',
+  teepUrl: 'https://teep.studyintaiwan.org/programs',
+  iippUrl: 'https://iipp.stpi.niar.org.tw/',
+}

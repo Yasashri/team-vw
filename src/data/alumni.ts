@@ -1,0 +1,11 @@
+import type { Alumni } from '../types'
+
+export const alumni: Alumni[] = [
+  { id: 'zheng-yi-lin', name: 'Zheng-Yi Lin', nickname: 'Bruce', previousRole: 'MS Student', category: 'masters', initials: 'ZL', thesisTitle: 'Antraquinone-based electrochemically active polymers for CO₂ capture', bio: 'Tamkang University alumna who joined Team VW to broaden her scientific perspective and problem-solving approach.' },
+  { id: 'rui-ze-xu', name: 'Rui-Ze Xu', nickname: 'Freddy', previousRole: 'MS Student', category: 'masters', initials: 'RX', thesisTitle: 'Visible-Light-Driven CO₂ reduction using copper(II) complexes with sulphur-containing pyridine-2,6-dicarboxamide scaffolds', bio: 'Joined Team VW with interests in carbon dioxide reduction and photocatalysis.' },
+  { id: 'jyun-ci-li', name: 'Jyun-Ci Li', nickname: 'Matt', previousRole: 'MS Student', category: 'masters', initials: 'JL', thesisTitle: 'Molecular tuning of copper complexes for selective CO₂ fixation and electrocatalytic conversion', bio: 'Chung Shan Medical University graduate whose Team VW work centered on molecular copper chemistry and CO₂ conversion.' },
+  { id: 'cheng-yu-hsieh', name: 'Cheng-Yu Hsieh', nickname: 'Crab', previousRole: 'MS Student', category: 'masters', initials: 'CH', thesisTitle: 'Investigations of molecular catalysts for heterogeneous catalytic reactions through graphite-conjugated structures', coSupervised: 'Co-supervised with Prof. Hsuan-Hung Liao', bio: 'Worked on new methodology for electroorganic synthesis after undergraduate study in medicinal chemistry.' },
+  { id: 'hsuan-chang', name: 'Hsuan Chang', nickname: 'Marvin', previousRole: 'MS Student', category: 'masters', initials: 'HC', thesisTitle: 'Mechanistic studies of a hydrogen-evolving cobalt complex in the presence of molecular oxygen', coSupervised: 'Co-supervised with Dr. Wen-Ching Chen', bio: 'Worked on the development and mechanistic study of new electrocatalysts.' },
+  { id: 'benny-tang', name: 'Benny Tang', previousRole: 'Undergraduate Researcher', category: 'undergraduate', initials: 'BT', bio: 'Worked on electrocatalysts.' },
+  { id: 'shi-han-huang', name: 'Shi-Han Huang', nickname: 'Hanna', previousRole: 'Undergraduate Researcher', category: 'undergraduate', initials: 'SH', bio: 'Worked on electrocatalysts.' },
+]
